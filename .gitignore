@@ -2,4 +2,6 @@
 *.sqlite3
 venv
 apps/__pycache__/
-*pyc
+*.pyc
+gestao_rh/__pycache__/settings.cpython-38.py
+NOTES.txt
